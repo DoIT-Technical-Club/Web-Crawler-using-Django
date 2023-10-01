@@ -15,7 +15,7 @@ Web Crawler project repository! We are thrilled that you are interested in contr
 
 The Web Crawler is a powerful tool built using a combination of HTML, CSS, JavaScript, Python, and the Django framework. Its main purpose is to efficiently and effectively crawl and scrape web content for various purposes, such as data collection, content aggregation, and more. This project is open-source and designed to be highly customizable and extensible, making it a great opportunity for contributors like you to enhance its functionality.
 
-[Check out the Guidelines](https://github.com/krishnapatidar458/hacktoberfest2023/blob/main/CONTRIBUTING.md)
+[Check out the Guidelines](https://github.com/krishnapatidar458/Web-Crawler-using-Django/blob/main/CONTRIBUTING.md)
 
 Feel free to edit this README to make it more attractive and informative!
 
@@ -50,7 +50,7 @@ If you're new to open source or an experienced contributor, Hacktoberfest is a f
 
 ## Get Started
 
-Ready to dive in? Explore our [Hacktoberfest Issues](https://github.com/krishnapatidar458/hacktoberfest2023/issues) to find tasks you can work on right away.
+Ready to dive in? Explore our [Hacktoberfest Issues](https://github.com/krishnapatidar458/Web-Crawler-using-Django/issues) to find tasks you can work on right away.
 
 Remember, Hacktoberfest is not just about quantity but also quality contributions. Make a positive impact on the open-source community!
 
