@@ -32,6 +32,16 @@ Before you start contributing to the Web Crawler project, ensure you have the fo
 - Modern web browser with developer tools (for testing and debugging)
 - Text editor or integrated development environment (IDE)
 
+## Event details :
+
+- [Hacktoberfest](https://hacktoberfest.com/), presented by Appwrite, ILLA and Digital Ocean, is a **month-long** challenge. It happens every year in the month of October.
+- Hacktoberfest is open to everyone and it marks the celebration of Open Source. It's the one of the biggest Open Source event that encourages newbies to participate in Open Source and create their 1st meaningful PR.
+- Hacktoberfest® is **open to everyone** in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community.
+- All backgrounds and skill levels are encouraged to complete the challenge.
+- You can sign up **anytime between September 26 and October 31** and enter the world of Open Source.
+
+---
+
 # Contributing to Hacktoberfest2023
 
 Hacktoberfest is an annual celebration of open-source contributions. This year, it runs from October 1st to October 31st, and you can be a part of it!
@@ -47,6 +57,21 @@ If you're new to open source or an experienced contributor, Hacktoberfest is a f
 4. **Review and Collaborate**: Collaborate with maintainers and reviewers during the pull request process. Be responsive to feedback and make necessary improvements.
 
 5. **Celebrate**: After your pull requests are accepted, you're on your way to earning a limited-edition Hacktoberfest shirt!
+
+---
+
+## HacktoberFest Rules :
+
+- Pull requests can be made in any GitHub or GitLab hosted project that’s participating in Hacktoberfest (look for the `hacktoberfest` topic)
+- The first 50,000 participants to have their first PR/MR accepted will have a tree planted in their name through Tree Nation
+- Participants with four pull/merge requests accepted between October 1 and October 31 will receive a unique digital reward
+
+---
+
+**Whether it’s your first or fiftieth pull request, there’s always more to learn! So, keep up the hard work and grab this opportunity to participate in Hacktoberfest2023 and enter the world of Open Source and learn new things.**
+
+---
+
 
 ## Get Started
 
@@ -86,3 +111,14 @@ For detailed information about your rights and responsibilities under the GPL-3.
 ---
 
 **Note:** The text above provides a brief overview of the GPL-3.0 license. It does not constitute legal advice. If you have legal questions or concerns about licensing, please consult with legal counsel.
+
+```javascript
+
+  _____ _                 _     __   __
+ |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _
+   | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
+   | | | | | | (_| | | | |   <    | | (_) | |_| |
+   |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
+
+
+```
